@@ -1,10 +1,10 @@
-# R-Ladies Reglas y Pautas de funcionamiento
+# R-Ladies reglas y pautas de funcionamiento
 
 ## Misión
 
 ## R-Ladies es una organización mundial cuya misión es promover la diversidad de género en la comunidad R.
 
-La comunidad R sufre de una baja representación de Mujeres\* en todos los roles y áreas de participación, sea como líderes, desarrolladoras de paquetes, disertantes, participantes de conferencias, educadoras o usuarias (ver las estadísticas recientes).
+La comunidad R sufre de una baja representación de Mujeres\* en todos los roles y áreas de participación, sea como líderes, desarrolladoras de paquetes, disertantes, participantes de conferencias, educadoras o usuarias ([ver las estadísticas recientes](http://forwards.github.io/)).
 
 Como una iniciativa de diversidad, la misión de R-Ladies es inspirar, entusiasmar y empoderar a las minorías actualmente subrepresentadas en la comunidad R para lograr una representación proporcionada.  
 
@@ -29,14 +29,15 @@ Por lo tanto, el foco primario de R-Ladies está dado en dar apoyo a las entusias
 **Reglas para la Participación del género mayoritario/representado:** En línea con la misión de R-Ladies aquellos géneros/identidades que no están subrepresentados en la Comunidad R *no están dentro del alcance de esta iniciativa de diversidad*. La mayoría conocida como género Masculino y los que se identifican con el mismo, pueden participar en una comunidad de R-Ladies dentro de un marco diseñado apropiadamente, de acuerdo con las políticas locales determinadas por los organizadores locales,  por ejemplo, como invitado patrocinado por un miembro, como miembro de pleno derecho, etc. Los oradores de cualquier capítulo de R-Ladies deben corresponder, en su mayoría,a un género minoritario. Se recomienda fuertemente un máximo de un disertante masculino por evento. Dada esta predominancia de género en la comunidad R general, no hay ninguna obligación para R-Ladies de proporcionar un apoyo comparable o comprometerse con esta identidad mayoritaria, especialmente a expensas de los grupos minoritarios, objetivos de nuestra misión.  Se permite que las solicitudes de membresía al Meetup requieran la aprobación del Organizador, permitiendo que sólo aquellos que se identifiquen con las minorías objetivo se unan a las R-Ladies.
 
 
-: *Nota: Tener en cuenta la Legislación reacionada a Igualdad de Género existente en su jurisdicción, (ej: la Ley de Igualdad 2010 en el Reino Unido) al diseñar marcos de participación para la mayoría de género para garantizar que dichos procedimientos no están infringiendo las leyes locales y evitar una discriminación potencial.*
+:*Nota: Tener en cuenta la Legislación reacionada a Igualdad de Género existente en su jurisdicción, (ej: la Ley de Igualdad 2010 en el Reino Unido) al diseñar marcos de participación para la mayoría de género para garantizar que dichos procedimientos no están infringiendo las leyes locales y evitar una discriminación potencial.*
+
+**Administración dirigida por la comunidad, independiente de las influencias externas:** R-Ladies no tiene vínculos permanentes con patrocinadores o terceras partes. El sponsoreo y apoyo externos son bienvenidos, siempre y cuando no busquen dictar o influir en la misión, actividades y toma de decisiones de R-Ladies, sino que permitan mejoran dichas actividades y ayuden a lograr un mayor impacto en la comunidad.  Se alienta a los organizadores locales de R-Ladies a obtener apoyos adecuados que no comprometan la independencia de la comunidad.
 
 
 **Código de Conducta de R-Ladies:** Todos los miembros deben seguir el Código de Conducta.
 
-*Note: I didnt copy the Code of conduct because is alrready in Spanish*
+* Note: I didnt copy the Code of conduct because is alrready in Spanish*
 
-**Administración dirigida por la comunidad, independiente de las influencias externas:** R-Ladies no tiene vínculos permanentes con patrocinadores o terceras partes. El sponsoreo y apoyo externos son bienvenidos, siempre y cuando no busquen dictar o influir en la misión, actividades y toma de decisiones de R-Ladies, sino que permitan mejoran dichas actividades y ayuden a lograr un mayor impacto en la comunidad.  Se alienta a los organizadores locales de R-Ladies a obtener apoyos adecuados que no comprometan la independencia de la comunidad.
 
 
 ### Capítulos:
@@ -71,15 +72,16 @@ la diversidad de género en la comunidad R ... [Cualquier otro texto]. #RLadies #
 ## Alineación sugerida de Meetup
 
 - Chequear que la dirección del grupo sea **meetup.com/rladies-ubicacion** *Note: I put this firts, in the English versión is in last place*
-- "R-Ladies [Unbicación] es parte de una organización mundial para promover la diversidad de género en la comunidad R".
+- "R-Ladies [Ubicación] es parte de una organización mundial para promover la diversidad de género en la comunidad R".
 - Texto de introducción sobre el grupo del capítulo en Meetup.
 - "Aquí está nuestro Código de Conducta".
 - "Para encontrar más detalles sobre la iniciativa global de R-Ladies, visite rladies.org".
-- "Síguenos en twitter @RLadies [Ubicación] y @RLadiesGlobal" (Pueden mencionar otros capítulos en tu país o provincia/estado.) *Note: Can we add the previus sentence ?:*
+- "Síguenos en twitter @RLadies [Ubicación] y @RLadiesGlobal" (Pueden mencionar otros capítulos en tu país o provincia/estado.) * Note: Can we add the previus sentence ?:*
 - "Visita nuestro R-Ladies Github"
 - "Siguenos en Facebook RLadies [Ubicación]" *Note: Can we add the previus sentence ?:*  
 - Incluir una declaración sobre fotografía y filmaciones, este es un ejemplo del capítulo de Londres: 
-:*"Fotos, películas y todos los demás medios de comunicación/grabaciones: fotografías y/o Video, fotografías y otros medios de registro: los videso, fotografías y cualquier otro medio de grabación serán utilizados en eventos celebrados por esta comunidad. Al participar en un evento de R-Ladies en Londres, usted otorga a los organizadores de la comunidad todos los derechos para usar las imágenes resultantes de la fotografía / grabación de video / y cualquier otro medio de reproducción o adaptación de las imágenes para publicidad, recaudación de fondos u otros propósitos que ayuden a conseguir los objetivos de la comunidad.  Esto incluye (pero no está limitado a), el derecho a usarlos en publicidad impresa y en línea, medios de comunicación, redes sociales, comunicados de prensa y solicitudes de fondos. Si no desea ser registrado en estos medios por favor informe a un organizador de la comunidad."*
+
+: *"Fotos, películas y todos los demás medios de comunicación/grabaciones: fotografías y/o Video, fotografías y otros medios de registro: los videso, fotografías y cualquier otro medio de grabación serán utilizados en eventos celebrados por esta comunidad. Al participar en un evento de R-Ladies en Londres, usted otorga a los organizadores de la comunidad todos los derechos para usar las imágenes resultantes de la fotografía / grabación de video / y cualquier otro medio de reproducción o adaptación de las imágenes para publicidad, recaudación de fondos u otros propósitos que ayuden a conseguir los objetivos de la comunidad.  Esto incluye (pero no está limitado a), el derecho a usarlos en publicidad impresa y en línea, medios de comunicación, redes sociales, comunicados de prensa y solicitudes de fondos. Si no desea ser registrado en estos medios por favor informe a un organizador de la comunidad."*
 
 *Note: this not exist in English versión, but Facebook is the most used social network in Latam Country and the most used in small places (like my city). So I think this is a important resource to exploit.*
 
