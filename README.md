@@ -22,11 +22,11 @@ Los argumentos son:
 	-tot: "Genera la imágen compuesta con el valor total"
 
 
-
 Modo de uso
 =============
 
+Este ejemplo procesa las imágenes `tif` del primero de Marzo de 2013 (`20130301`) de la variable `dBZ` y la primera elevación (`ele 1`) para calcular el valor mínimo (`mini`)
 ~~~
-python GIC.py lugar\donde\se\encuentran\los\datos 20130301 tif dbz -ele 1 -mini
+python GIC.py lugar\donde\se\encuentran\los\datos 20130301 tif dBZ -ele 1 -mini
 
 ~~~
